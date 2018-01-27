@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JaredRoss14/advanced-hangman/issues"
   },
-  "homepage": "https://github.com/JaredRoss14/advanced-hangman#readme"
+  "homepage": "https://github.com/JaredRoss14/advanced-hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
 }
